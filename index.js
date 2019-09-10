@@ -1,7 +1,7 @@
 import "./styles.css";
 
 document.getElementById("app").innerHTML = `
-<h1>Hello Vanilla!</h1>
+<h1>My Vanilla JS Game</h1>
 <div>
 <h1 align="center">Tic Tac Toe</h1>
 <table>
